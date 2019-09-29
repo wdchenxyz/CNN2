@@ -26,7 +26,7 @@ CNN^2 uses novel augmentation, pooling, and convolutional layers to learn a sens
 ## To Reproduce Our Results On NeurIPS'19
 
 ### Step 1. Download and Preprocess Datasets
-Download all the binocular datasets used in the paper. [Link]("https://drive.google.com/open?id=1S47qOBWZtSA4emTQNCR3mft6lUyJB4ke")
+Download all the binocular datasets used in the paper. [Link](https://drive.google.com/open?id=1S47qOBWZtSA4emTQNCR3mft6lUyJB4ke)
 
 ### Step 2. Evaluate CNN^2 performance on task of viewpoint generalization.
  * Used the model in `cnn2.py` in the task of viewpoint generalization.
